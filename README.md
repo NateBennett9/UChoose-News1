@@ -1,4 +1,4 @@
-# Project-Mayhem
+# UChooseNew
 
 <bold> Description. “Our application helps people target what news they are interested in while being able to avoid undesirable content.”
 
