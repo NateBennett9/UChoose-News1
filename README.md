@@ -1,4 +1,4 @@
-# [UChooseNews] (https://natebennett9.github.io/UChooseNews/)
+# [UChooseNews](https://natebennett9.github.io/UChooseNews/)
 
 Description. “Our application helps people target what news they are interested in while being able to avoid undesirable content.”
 
