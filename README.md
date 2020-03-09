@@ -1,6 +1,6 @@
 # UChooseNews
 
-<bold> Description. “Our application helps people target what news they are interested in while being able to avoid undesirable content.”
+Description. “Our application helps people target what news they are interested in while being able to avoid undesirable content.”
 
 Motivation. “Our initial motivation was to avoid spoilers to sports events and popular tv shows while still being able to use the internet to get news.”
 
