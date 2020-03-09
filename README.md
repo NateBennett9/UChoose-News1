@@ -1,4 +1,4 @@
-# UChooseNews
+# [UChooseNews] (https://natebennett9.github.io/UChooseNews/)
 
 Description. “Our application helps people target what news they are interested in while being able to avoid undesirable content.”
 
@@ -11,3 +11,4 @@ Team Efforts. “Jeff singlehandedly created the UI and helped figure out how to
 Challenges. “Eventually, we realized that the fact that JavaScript is asynchronous meant our UI wouldn’t work with the code we’d written to call the external APIs. So we used promises to wrap our API calls and refactor the front-end."
 
 Improvements. “In the future, we’d like to add a way to favorite exclusion selections as well as make a popular exclusions section."
+
